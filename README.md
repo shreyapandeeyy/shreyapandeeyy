@@ -15,10 +15,12 @@ Hello there! 👋 I'm Shreya Pandey, a MERN stack developer in my pre-final year
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### 😂 Github Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreyapandeeyy/shreyapandeeyy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreyapandeeyy/shreyapandeeyy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shreyapandeeyy/shreyapandeeyy/output/github-contribution-grid-snake.svg">
+</picture>
 
----
-[![](https://visitcount.itsvg.in/api?id=shreyapandeeyy&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🥰 Visitors
+![Visitor Count](https://profile-counter.glitch.me/shreyapandeeyy/count.svg)
