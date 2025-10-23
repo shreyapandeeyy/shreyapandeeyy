@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello there! 👋 I'm Shreya Pandey, a MERN stack developer in my final year at Vellore Institute of Technology, Bhopal. <br>I love creating cool stuff for the web, using technologies like MongoDB, Next.JS, Node.js (MERN stack), and I also know Java and C++. Check out my GitHub for a peek into the projects I've been working on. Let's connect, collaborate, and explore the world of tech together! 🚀✨
-
+Checkout my portfolio- https://shreyapandey-zeta.vercel.app/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/unfuck_u__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-pandey-583556228/) 
